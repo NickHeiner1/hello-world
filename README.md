@@ -1,3 +1,4 @@
 # hello-world
 
-I'm Nick! Currently learning c. 
+I'm Nick! 
+Information Technology @ UCF
